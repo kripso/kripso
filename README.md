@@ -14,10 +14,10 @@ I am a software engineer from Slovakia
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img align="left" alt="pandas" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br>
-<br>
-
+<br>	
 <!--
 **kripso/kripso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
