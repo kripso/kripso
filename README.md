@@ -10,8 +10,8 @@ I am a software engineer from Slovakia
 <br>
 <br>
 ## Expertise
-<img align="left" alt="python" src="https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=FFE873&style=for-the-badge&logoWidth=30" />
-<img align="left" alt="java" src="https://img.shields.io/badge/-Java-1376bc?logo=java&logoColor=e5001f&style=for-the-badge&logoWidth=30" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <br>
 <br>
 
