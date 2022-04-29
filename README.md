@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer from Slovakia
+<!-- I am a software engineer from Slovakia -->
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roland-rajcsanyi-4b956a182/)
