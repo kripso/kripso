@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer from Slovakia trying to make my life easier with code.
+I am a Big Data Engineer from Slovakia trying to make my life easier with code.
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roland-rajcsanyi-4b956a182/)
